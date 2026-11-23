@@ -1,6 +1,6 @@
 {
  "v": 1,
- "built": "2026-11-23T15:07:41Z",
+ "built": "2026-11-23T15:18:49Z",
  "events": [
   {
    "name": "Intergalactic Aerospace Expo 2956",
@@ -77,6 +77,16 @@
    "href": "/star-citizen-ship-loadout-builder/",
    "label": "Ship Loadout Builder",
    "sub": "DPS, power, components"
+  },
+  {
+   "href": "/star-citizen-fps-weapon-dps-calculator/",
+   "label": "FPS Weapon DPS",
+   "sub": "Damage per second by range"
+  },
+  {
+   "href": "/star-citizen-ship-weapon-dps/",
+   "label": "Ship Weapon DPS",
+   "sub": "All 177 ship guns ranked"
   }
  ]
 }
