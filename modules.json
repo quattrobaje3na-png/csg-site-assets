@@ -1,0 +1,75 @@
+{
+ "v": 1,
+ "built": "2026-11-23T14:56:16Z",
+ "events": [
+  {
+   "name": "Intergalactic Aerospace Expo 2956",
+   "kind": "FREE FLY",
+   "blurb": "Fly over 200 ships free and tour the expo in New Babbage.",
+   "when": "ENDS 27 NOV",
+   "link": "/enlist/",
+   "cta": "Play Free",
+   "start": "2026-11-13T16:00:00Z",
+   "end": "2026-11-28T00:00:00Z"
+  },
+  {
+   "name": "Luminalia",
+   "kind": "HOLIDAY EVENT",
+   "blurb": "The festival of lights returns to the 'verse.",
+   "when": "DEC 2026 · DATE TBA",
+   "link": "",
+   "cta": ""
+  }
+ ],
+ "new_this_patch": {
+  "cards": [
+   {
+    "name": "Anvil Liberator",
+    "sub": "Transporter · Light Carrier",
+    "img": "https://sc-loadout-builder.pages.dev/ship_images/liberator.jpg",
+    "href": "/star-citizen-ship-comparison/",
+    "placeholder": "NEW SHIP"
+   },
+   {
+    "name": "RSI Galaxy",
+    "sub": "Multi-Role · Modular",
+    "img": "https://sc-loadout-builder.pages.dev/ship_images/galaxy.jpg",
+    "href": "/star-citizen-ship-comparison/",
+    "placeholder": "NEW SHIP"
+   }
+  ],
+  "paints": 19
+ },
+ "tools": [
+  {
+   "href": "/what-fits-in-star-citizen-ships/",
+   "label": "Fit Checker",
+   "sub": "What fits in which ship"
+  },
+  {
+   "href": "/star-citizen-blueprint-finder/",
+   "label": "Crafting Blueprint Finder",
+   "sub": "Where every blueprint drops"
+  },
+  {
+   "href": "/star-citizen-mining-material-finder/",
+   "label": "Mining Material Finder",
+   "sub": "Best ore locations"
+  },
+  {
+   "href": "/star-citizen-location-finder/",
+   "label": "Location Finder",
+   "sub": "Every place, mapped and routed"
+  },
+  {
+   "href": "/star-citizen-salvage-material-finder/",
+   "label": "Salvage Material Finder",
+   "sub": "What each wreck pays"
+  },
+  {
+   "href": "/star-citizen-ship-loadout-builder/",
+   "label": "Ship Loadout Builder",
+   "sub": "DPS, power, components"
+  }
+ ]
+}
